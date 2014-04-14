@@ -1,0 +1,13 @@
+﻿Alicetown	Bobville	10	50
+Alicetown	Carolina	30	60
+Bobville	Carolina	15	5
+Carolina	Bobville	15	5
+Bobville	Danburg	20	75 
+Danburg	Bobville	20	40
+Bobville	Eveland	25	15
+Carolina	Danburg	10	20
+Carolina	Eveland	30	20
+Danburg	Eveland	40	40
+Eveland	Danburg	20	40 
+Eveland	Frank City	15	-10
+Frank City	Danburg	10	35
